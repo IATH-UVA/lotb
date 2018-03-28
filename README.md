@@ -1,4 +1,4 @@
-# mirador-project
+# Life of the Budda
 Client-facing repository mainly for cross-repository [issues](https://github.com/IATH-UVA/lotb/issues) and documentations
 
 ## Source repositories
