@@ -11,3 +11,5 @@ Client-facing repository mainly for cross-repository [issues](https://github.com
 * [Mirador User Guide](https://github.com/yale-web-technologies/mirador-project/wiki/User-Guide---Mirador-@Yale)
 
 ## See the [wiki](https://github.com/yale-web-technologies/mirador-project/wiki) for documentations.
+
+## See the [Migration Checklist](https://github.com/yale-web-technologies/mirador-project/wiki/LOTB-Migration-Checklist) for migration information.
